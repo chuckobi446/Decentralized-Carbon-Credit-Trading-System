@@ -13,3 +13,7 @@ L
 tests/credit-trading.test.ts,f/a/fa78cce312083a9be2fbf94f2e9c644a67e0e534
 M
 contracts/credit-trading.clar,4/5/45e3c03f0f70759847c3e0730c4400e4e677fc17
+U
+%contracts/carbon-credit-issuance.clar,1/c/1c9988e1f5a15b841e5ef97784957392c253b8c1
+T
+$tests/carbon-credit-issuance.test.ts,9/3/93dc0e9b9f24ee49be37fbd6c70add0f4616c299
